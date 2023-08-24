@@ -29,22 +29,22 @@ Displaying component availability information in the MIT App Inventor designer w
 
 ## Work Summary
 
-- **Dropdown Menu:** Added a Dropdown menu in the components palette to filter the components based on the platform (iOS/Android) they are available in.  
+- **Dropdown Menu:** Implemented a dropdown menu in the components palette to filter components based on their platform availability (iOS/Android).    
 ![Alt text](image.png)
 
-- **Incompatibility Dialog:** When the user connects their device through the companion app, a dialog appears only if their project includes components unsupported on the device's platform (Android or iOS). This dialog lists incompatible components, then ends the connection. For iOS, it includes a hyperlink to track App Inventor for iOS progress.  
-The dialog box iOS Devices would appear as follows:    
+- **Incompatibility Dialog:** Added a dialog that appears when a user connects their device through the companion app and their project contains unsupported components for the device's platform (iOS/Android). The dialog lists incompatible components and terminates the connection if necessary. For iOS, a hyperlink was included to track App Inventor for iOS progress.  
+The dialog box for iOS Devices would appear as follows:    
 ![Alt text](image-3.png)
 
-- **Palette Indicators:** Palette items display text indicating Android/iOS availability. Help popup shows 'Only Android Compatible' or 'Only iOS Compatible' for single-platform components.  
+- **Palette Indicators:** Enhanced the palette items to display text indicating whether a component is available on Android or iOS. The help popup provides additional information such as 'Only Android Compatible' or 'Only iOS Compatible' for single-platform components.   
 ![Alt text](image-1.png)
 
-- **Unsupported Components Display:** Added a new functionality to display the components that are unsupported in particular AI Companion versions, when user connects their device through the AI Companion.
+- **Unsupported Components Display:** Implemented a new functionality to display components that are unsupported in specific AI Companion versions. This is shown when a user connects their device through the AI Companion.
   <img src="image-2.png" alt="drawing" width="600"/>
 
 ## TODO [For Future Work]
-- **Dropdown Consistency:** Integrating dropdown functionality to the singleton palette object implmentation for it to remain consistent across all the screens.
-- **Webrtc Connection States:** Enhancing webrtc connection states for Companion version component availability check by adding anew state for the **simple_components.json** transfer.
+- **Dropdown Consistency:**  Integrate dropdown functionality with the singleton palette object implementation to maintain consistency across all screens.
+- **Webrtc Connection States:** Enhance the WebRTC connection states for checking component availability in different companion versions by adding a new state for the **simple_components.json** transfer.
 
 ## Acknowledgements
 
