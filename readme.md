@@ -4,7 +4,7 @@
 - **Name:** Aditya B N
 - **Email:** [adirn26@gmail.com](adirn26@gmail.com)
 - **Github:** [https://github.com/adirn26](https://github.com/adirn26)
-- **LinkedIn:** https://www.linkedin.com/in/aditya-b-n-7a39b459
+- **LinkedIn:** [https://www.linkedin.com/in/aditya-b-n-7a39b459](https://www.linkedin.com/in/aditya-b-n-7a39b459)
 - **Location:** Bengaluru, India
 - **Timezone:** Asia/Kolkata (UTC +05:30)
 
