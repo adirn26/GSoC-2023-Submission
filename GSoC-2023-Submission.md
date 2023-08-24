@@ -33,14 +33,14 @@ Displaying component availability information in the MIT App Inventor designer w
 ![Alt text](image.png)
 
 - **Incompatibility Dialog:** When the user connects their device through the companion app, a dialog appears only if their project includes components unsupported on the device's platform (Android or iOS). This dialog lists incompatible components, then ends the connection. For iOS, it includes a hyperlink to track App Inventor for iOS progress.  
-The dialog box iOS Devices would appear as follows:
+The dialog box iOS Devices would appear as follows:    
 ![Alt text](image-3.png)
 
-- **Palette Indicators:** Palette items display text indicating Android/iOS availability. Help popup shows 'Only Android Compatible' or 'Only iOS Compatible' for single-platform components.
+- **Palette Indicators:** Palette items display text indicating Android/iOS availability. Help popup shows 'Only Android Compatible' or 'Only iOS Compatible' for single-platform components.  
 ![Alt text](image-1.png)
 
-- **Unsupported Components Display:** Added a new functionality to display the components that are unsupported in particular AI Companion versions, when user connects their device through the AI Companion. 
-![Alt text](image-2.png)
+- **Unsupported Components Display:** Added a new functionality to display the components that are unsupported in particular AI Companion versions, when user connects their device through the AI Companion.
+  <img src="image-2.png" alt="drawing" width="600"/>
 
 ## TODO [For Future Work]
 - **Dropdown Consistency:** Integrating dropdown functionality to the singleton palette object implmentation for it to remain consistent across all the screens.
