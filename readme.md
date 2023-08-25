@@ -47,16 +47,16 @@ The dialog box for iOS Devices would appear as follows:
 - **Palette Indicators:** Enhanced the palette items to display text indicating whether a component is available on Android or iOS. The help popup provides additional information such as 'Only Android Compatible' or 'Only iOS Compatible' for single-platform components.   
 ![Alt text](image-1.png)
 
-- **Unsupported Components Display:** Implemented a new functionality to display components that are unsupported in specific AI Companion versions. This is shown when a user connects their device through the AI Companion.
+- **Unsupported Components Display:** Implemented a new functionality to display components that are unsupported in specific AI Companion versions. This is shown when a user connects their device through the AI Companion.   
   <img src="image-2.png" alt="drawing" width="600"/>
 
 ## TODO [For Future Work]
 - **Dropdown Consistency:**  Integrate dropdown functionality with the singleton palette object implementation to maintain consistency across all screens.
 - **Webrtc Connection States:** Enhance the WebRTC connection states for checking component availability in different companion versions by adding a new state for the **simple_components.json** transfer.
 
+## My GSoC Experience: Learnings and Growth
+Participating in Google Summer of Code has been a transformative journey. Through this experience, I've not only honed my technical skills but also gained valuable insights into the world of open-source development. Collaborating with my mentors and the vibrant MIT App Inventor community has taught me the significance of effective communication, the art of problem-solving, and the beauty of teamwork. I've had the privilege of learning new technologies, navigating challenges, and refining my coding practices. GSoC has not only enriched my knowledge but has also empowered me with a sense of accomplishment, as I've contributed to a project that impacts users worldwide. This journey of personal growth and skill enhancement is something I'll carry forward in my future endeavors.
+
 ## Acknowledgements
 
 I extend my heartfelt gratitude to [Evan W. Patton](https://github.com/ewpatton) for his invaluable guidance and mentorship throughout this transformative journey. Additionally, I'd like to express my appreciation to  [Susan Rati Lane](https://github.com/SusanRatiLane) for her unwavering support. It is my sincere hope that this project will contribute to making MIT App Inventor more accessible and user-friendly for everyone. 
-
-## My GSoC Experience: Learnings and Growth
-Participating in Google Summer of Code has been a transformative journey. Through this experience, I've not only honed my technical skills but also gained valuable insights into the world of open-source development. Collaborating with my mentors and the vibrant MIT App Inventor community has taught me the significance of effective communication, the art of problem-solving, and the beauty of teamwork. I've had the privilege of learning new technologies, navigating challenges, and refining my coding practices. GSoC has not only enriched my knowledge but has also empowered me with a sense of accomplishment, as I've contributed to a project that impacts users worldwide. This journey of personal growth and skill enhancement is something I'll carry forward in my future endeavors.
