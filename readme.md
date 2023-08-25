@@ -1,7 +1,11 @@
+<div style="text-align: center;">
+<h1>Final Submission for GSoC 2023</h1>
+</div>
+
 ![GSoC 2022](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
 <div style="text-align: center;">
-<img src="image-4.png" alt="drawing" height="100" />
+<img src="image-4.png" alt="drawing" height="120" />
 </div>
 
 # About me
@@ -53,3 +57,6 @@ The dialog box for iOS Devices would appear as follows:
 ## Acknowledgements
 
 I extend my heartfelt gratitude to [Evan W. Patton](https://github.com/ewpatton) for his invaluable guidance and mentorship throughout this transformative journey. Additionally, I'd like to express my appreciation to  [Susan Rati Lane](https://github.com/SusanRatiLane) for her unwavering support. It is my sincere hope that this project will contribute to making MIT App Inventor more accessible and user-friendly for everyone. 
+
+## My GSoC Experience: Learnings and Growth
+Participating in Google Summer of Code has been a transformative journey. Through this experience, I've not only honed my technical skills but also gained valuable insights into the world of open-source development. Collaborating with my mentors and the vibrant MIT App Inventor community has taught me the significance of effective communication, the art of problem-solving, and the beauty of teamwork. I've had the privilege of learning new technologies, navigating challenges, and refining my coding practices. GSoC has not only enriched my knowledge but has also empowered me with a sense of accomplishment, as I've contributed to a project that impacts users worldwide. This journey of personal growth and skill enhancement is something I'll carry forward in my future endeavors.
