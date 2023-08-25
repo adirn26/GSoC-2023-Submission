@@ -1,5 +1,9 @@
 ![GSoC 2022](https://summerofcode.withgoogle.com/assets/media/logo.svg)
 
+<div style="text-align: center;">
+<img src="image-4.png" alt="drawing" height="100" />
+</div>
+
 # About me
 - **Name:** Aditya B N
 - **Email:** [adirn26@gmail.com](adirn26@gmail.com)
